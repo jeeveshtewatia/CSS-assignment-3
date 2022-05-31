@@ -116,7 +116,7 @@ body {
 .box2 {
     position: absolute;
     display: flex;
-    right: 20px;
+    right: 60px;
     top: 8em;
     display: flex;
     justify-content: center;
@@ -127,7 +127,7 @@ body {
 .box3 {
     position: absolute;
     /* display: flex; */
-    right: 20px;
+    right: 60px;
     top: 18em;
     /* float: inline-end; */
 }
